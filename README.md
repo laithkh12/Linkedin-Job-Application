@@ -1,6 +1,6 @@
 # 🚀 LinkedIn Job Application Bot
 
-![selenium-logo](https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="selenium-logo" width="200"/>
 
 A Python-based automation script that uses **Selenium WebDriver** to automate job applications on LinkedIn. This tool simplifies the application process by automatically filling in required fields and submitting applications.
 
